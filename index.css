@@ -23,7 +23,7 @@ main {
 }
 
 .post-daniel {
-    background: hsl(263, 55%, 52%) no-repeat url(images/bg-pattern-quotation.svg) 85% 0%;
+    background: hsl(263, 55%, 52%) no-repeat url(../images/bg-pattern-quotation.svg) 85% 0%;
 }
 
 .post-jonathan {
